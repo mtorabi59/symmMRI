@@ -1,0 +1,14 @@
+# Core dependencies for Symmetry-based Brain Tumor Detection
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.30.0
+
+# Image processing
+Pillow>=9.0.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+
+# Optional: For GPU acceleration
+# torch-cuda  # Install cudatoolkit separately for your system
